@@ -1,0 +1,14 @@
+.intro {
+  Color: rgb(74, 131, 168);
+  Font-size: 40px;
+  max-width: 1080px;
+  margin: 0 auto;
+  border: 3px solid rgb(40, 153, 168)
+  text-align: centre;
+  podding-top: 5px;
+}
+body {
+  background-color: rgb(143, 149, 207)
+.intro 1 {
+  Font-size: 12px;
+}
